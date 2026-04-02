@@ -58,4 +58,6 @@ Smooth page transitions
 Loading states and micro-interactions
 The system is built as a single-page application where every button, switch, and slider actually works and provides visual feedback. The design uses the latest trends including glassmorphism, neon accents, and dark mode aesthetics with cyan/purple/amber color accents.
 
+#SmartHome #IoT #HomeAutomation #EmbeddedSystems #Arduino #RaspberryPi #Python #Django #React #MQTT #WirelessControl #HomeSecurity #EnergyEfficiency #TechInnovation #FullStack #WebDashboard #MobileApp #Automation #DIYElectronics #OpenSources
+
 contact for full version (professorshami435@gmail.com)
