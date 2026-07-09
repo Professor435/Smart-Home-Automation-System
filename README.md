@@ -9,7 +9,7 @@ Smooth transitions and micro-interactions throughout
 Responsive layout that works on all devices
 2. Fully Functional Controls
 Climate Control:
-Interactive circular thermostat dial with drag-to-adjust
+Interactive circular thermostat dial with drag-to-adjust 
 Temperature adjustment (+/- buttons)
 Mode selection (Cool/Heat/Auto/Eco)
 Real-time current temperature display
